@@ -2,7 +2,7 @@ import React, { Component } from "react"
 import { hot } from "react-hot-loader";
 import Menu from "../../components/Menu/Menu"
 //import routes from '../../routes'
-import { BrowserRouter as Router } from 'react-router-dom'
+//import { BrowserRouter as Router } from 'react-router-dom'
 import "./App.css";
 import { renderRoutes } from 'react-router-config'
 
